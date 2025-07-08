@@ -1,0 +1,6 @@
+# Ignorar el archivo de variables de entorno
+.env
+
+# Ignorar la carpeta del entorno virtual de Python
+bot_env/
+__pycache__/
